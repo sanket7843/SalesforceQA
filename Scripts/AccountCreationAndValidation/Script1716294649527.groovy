@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
- 
+  
 WebUI.navigateToUrl('https://mindful-badger-r5gt64-dev-ed.trailblaze.my.salesforce.com/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Username_username (3)'), 'sanket.dudhe@mindful-badger-r5gt64.com')
