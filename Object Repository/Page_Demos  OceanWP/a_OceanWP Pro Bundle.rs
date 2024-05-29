@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_OceanWP Pro Bundle</name>
+   <tag></tag>
+   <elementGuidId>428fc8e6-b52e-46f1-8210-9b8b449b8ca7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-580535 > a.menu-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-580535']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5177e878-9c31-41b8-8ca9-6e59fdc62b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://oceanwp.org/core-extensions-bundle/</value>
+      <webElementGuid>75edf807-8b7f-4818-913a-9ad9635f5e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>437c42e7-6a32-4c31-972e-37f473da8691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OceanWP Pro Bundle</value>
+      <webElementGuid>687a5b0c-9d0f-4f64-909b-90e9fc007abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-580535&quot;)/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>a820543d-55b3-461b-a643-6d15a45b36b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-580535']/a</value>
+      <webElementGuid>c25ce846-60c7-452d-b2a0-eec6153a81df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::a[1]</value>
+      <webElementGuid>664a77cb-0d99-497d-8397-24cf1348237b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Royalty-free Images and Icons'])[1]/following::a[2]</value>
+      <webElementGuid>6281e190-1400-437f-b1de-10f848d02787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocean eCommerce Pro'])[1]/preceding::a[1]</value>
+      <webElementGuid>7024c203-bf29-4e3b-9549-93ff420a6aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://oceanwp.org/core-extensions-bundle/')]</value>
+      <webElementGuid>60589980-cef7-4956-bbb9-280f68cb7b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[2]/ul/li/a</value>
+      <webElementGuid>99e55421-fbf6-4921-8af4-ce0663dc53ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://oceanwp.org/core-extensions-bundle/' and (text() = 'OceanWP Pro Bundle' or . = 'OceanWP Pro Bundle')]</value>
+      <webElementGuid>3c1a8313-7d0f-445a-aec3-3f0389a8ca2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

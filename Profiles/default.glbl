@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sanket.dudhe@mindful-badger-r5gt64.com'</initValue>
+      <name>Profile_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cvW8qx4B2o3F4VwP/kNsqA=='</initValue>
+      <name>Profile_PSW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://mindful-badger-r5gt64-dev-ed.trailblaze.my.salesforce.com/'</initValue>
+      <name>Profile_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.saucedemo.com/'</initValue>
+      <name>SauceURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'standard_user'</initValue>
+      <name>SauceUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qcu24s4901FyWDTwXGr6XA=='</initValue>
+      <name>saucePW</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

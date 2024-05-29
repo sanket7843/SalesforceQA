@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Art and Design</name>
+   <tag></tag>
+   <elementGuidId>4c2cce99-194f-41ad-afce-07e523933277</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='demos-grid']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17d12fd5-e978-496e-adc3-578876de8b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>515e36f4-f205-4296-b03c-02072c8a70e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-filter</name>
+      <type>Main</type>
+      <value>.cat-1315</value>
+      <webElementGuid>3fb4bb4b-39ed-4645-bf03-3609f852064c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Art and Design</value>
+      <webElementGuid>7832c7b0-63cc-43d4-b010-12b7dd791c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;demos-grid&quot;)/ul[@class=&quot;demos-filters&quot;]/li[@class=&quot;demos-filter&quot;]/a[1]</value>
+      <webElementGuid>052198ed-1eee-4188-97e6-3eddfbb604df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='demos-grid']/ul/li[2]/a</value>
+      <webElementGuid>ed83f31a-2d8b-458a-829c-ae80ee40ef92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Art and Design')]</value>
+      <webElementGuid>02a82998-eef2-4e47-93f1-e3b9b72e0a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Speed Up the Building Process with Ocean One-Click Website Template Import'])[1]/following::a[2]</value>
+      <webElementGuid>5296a960-2f3c-402c-b94d-b00279570e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover Our Website Demos'])[1]/following::a[2]</value>
+      <webElementGuid>d38aebfe-360c-4e40-b3a9-5b96b7183a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See The Demo'])[1]/preceding::a[25]</value>
+      <webElementGuid>c272c828-f842-4298-9aa8-546947a883f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pro'])[1]/preceding::a[26]</value>
+      <webElementGuid>b5b2c128-ca52-43c1-ac97-b47e096b71e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Art and Design']/parent::*</value>
+      <webElementGuid>558e829a-d4e8-4fb2-b109-7967299d1856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[23]</value>
+      <webElementGuid>a0b05199-5f0a-41cf-901b-ab1ab7e5bd24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>945c3c8a-86ed-446a-a831-00d59459e27d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Art and Design' or . = 'Art and Design')]</value>
+      <webElementGuid>0c665a9b-b741-43fd-be2d-413477fdba46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

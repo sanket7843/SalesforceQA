@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0A1AE5B26938BBA1CE33B83F703FF505",
+  "keywordClasses": [
+    {
+      "name": "loginToSalesforce",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
