@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Account Test Account was created</name>
+   <tag></tag>
+   <elementGuidId>5661d058-9d6e-4e50-912c-cbf2d4cc5390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.toastMessage.slds-text-heading--small.forceActionsText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toastDescription1911:0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>659c2463-2ac5-4738-b2b7-a2acecf7ed59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toastMessage slds-text-heading--small forceActionsText</value>
+      <webElementGuid>c8fe07a2-8edd-4999-9a75-0d06c10b1af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>1924:0</value>
+      <webElementGuid>05488bdf-27a3-42e0-84c1-69fb4b2bb0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>forceActionsText</value>
+      <webElementGuid>bfcc7456-aeea-4f77-bf34-0eb9015da6c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account &quot;Test Account&quot; was created.</value>
+      <webElementGuid>cf6b6993-7866-4f51-ba30-7eca9741a165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toastDescription1911:0&quot;)/span[@class=&quot;toastMessage slds-text-heading--small forceActionsText&quot;]</value>
+      <webElementGuid>8ed94835-fc8f-42e2-997a-28eec8dbec3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toastDescription1911:0']/span</value>
+      <webElementGuid>ea5402d0-dc38-4a97-b514-0c98918eb823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::span[1]</value>
+      <webElementGuid>db0b1373-776a-4141-841e-7f59a386b02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/following::span[4]</value>
+      <webElementGuid>3d95a99d-2ee1-400b-b338-434ebd0b6e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[1]</value>
+      <webElementGuid>050aa489-af7d-4da3-8d79-2c0dc5717eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/span</value>
+      <webElementGuid>9d09adb5-5a17-4c99-82ff-cc6ce2ca64cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Account &quot;Test Account&quot; was created.' or . = 'Account &quot;Test Account&quot; was created.')]</value>
+      <webElementGuid>6235fdd8-bd2b-4780-ba84-c03445312d7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

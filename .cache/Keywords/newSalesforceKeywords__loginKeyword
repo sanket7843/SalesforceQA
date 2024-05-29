@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "18E7AE1CC5F7A405480981EAD25205D1",
+  "keywordClasses": [
+    {
+      "name": "newSalesforceKeywords.loginKeyword",
+      "keywordMethods": [
+        {
+          "name": "loginToSalesforce",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "logoutFromSalesforce",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

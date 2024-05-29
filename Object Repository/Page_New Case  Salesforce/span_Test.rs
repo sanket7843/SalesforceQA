@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Test</name>
+   <tag></tag>
+   <elementGuidId>579b6514-4fe9-4195-b21c-a006b982bf2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-input-333-3-333 > span.slds-media__body > span.slds-listbox__option-text.slds-listbox__option-text_entity</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-input-333-3-333']/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dbfaedb8-5b54-4b18-a280-f18055aa8b3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-listbox__option-text slds-listbox__option-text_entity</value>
+      <webElementGuid>80f5a389-547d-4997-aeff-1ba13d9db49f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test</value>
+      <webElementGuid>84a3fe49-c063-44b2-bf8f-d44190ec263a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-input-333-3-333&quot;)/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-listbox__option-text slds-listbox__option-text_entity&quot;]</value>
+      <webElementGuid>5a99c792-c13b-4a47-a780-60c249d06e99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-input-333-3-333']/span[2]/span</value>
+      <webElementGuid>8f6fe09f-c742-4b74-9f06-4bc9773e414a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test User'])[1]/following::span[4]</value>
+      <webElementGuid>414a1306-f06d-4f6e-86ce-e15912dffdb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tester'])[2]/following::span[9]</value>
+      <webElementGuid>a2753c5b-a5b8-4f1e-bbd9-cd15242f2fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::span[2]</value>
+      <webElementGuid>33999048-534e-45a7-b89a-3851c70445c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/lightning-base-combobox-item/span[2]/span</value>
+      <webElementGuid>0ab561c8-1eea-49b7-be98-19d007f069f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Test' or . = 'Test')]</value>
+      <webElementGuid>734ea41b-9255-42b9-98f5-4634b1886d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

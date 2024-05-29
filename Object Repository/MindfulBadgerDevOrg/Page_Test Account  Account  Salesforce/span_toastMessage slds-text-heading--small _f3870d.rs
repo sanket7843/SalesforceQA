@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_toastMessage slds-text-heading--small _f3870d</name>
+   <tag></tag>
+   <elementGuidId>ef712bd0-0591-4417-9d5f-c92e32733eeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/div[@class=&quot;toastContainer slds-notify_container slds-is-relative&quot;]/div[@class=&quot;slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage toastHidden&quot;]/div[@class=&quot;toastContent slds-notify__content&quot;]/div[@class=&quot;slds-align-middle slds-hyphenate&quot;]/div[@id=&quot;toastDescription1911:0&quot;]/span[@class=&quot;toastMessage slds-text-heading--small forceActionsText&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53bd0d9c-8a33-4b81-82d6-1dddd63f5758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toastMessage slds-text-heading--small forceActionsText</value>
+      <webElementGuid>322698ba-6040-4062-8c28-1046005182c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>1924:0</value>
+      <webElementGuid>23cb9224-af55-45a0-afbd-108b99b024f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>forceActionsText</value>
+      <webElementGuid>e5d77062-c448-412e-8f23-777b649a148e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;toastContainer slds-notify_container slds-is-relative&quot;]/div[@class=&quot;slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage toastHidden&quot;]/div[@class=&quot;toastContent slds-notify__content&quot;]/div[@class=&quot;slds-align-middle slds-hyphenate&quot;]/div[@id=&quot;toastDescription1911:0&quot;]/span[@class=&quot;toastMessage slds-text-heading--small forceActionsText&quot;]</value>
+      <webElementGuid>9c550380-87ca-4a05-a035-3ae19f1bf487</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales</name>
+   <tag></tag>
+   <elementGuidId>4fb87aa7-0416-4886-9f2e-39411de9047c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#07pGC000000RdLEYA0 > div.slds-size_small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='07pGC000000RdLEYA0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1c8f2888-52e8-418b-89d8-a25d4ff98b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-size_small</value>
+      <webElementGuid>9b36d39a-2d44-4352-a886-1a975045a780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales</value>
+      <webElementGuid>6b618114-26f1-41ba-b83d-dc123b49ace4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;07pGC000000RdLEYA0&quot;)/div[@class=&quot;slds-size_small&quot;]</value>
+      <webElementGuid>7c2fead4-6b01-42c5-8053-986e2f285a50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='07pGC000000RdLEYA0']/div</value>
+      <webElementGuid>b8c66b00-136a-437c-a4c4-d863a78dff39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[2]/following::div[8]</value>
+      <webElementGuid>fabab29e-fc0d-43cc-9a98-0e576b8d233b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search apps and items...'])[1]/following::div[10]</value>
+      <webElementGuid>631c324f-ffd7-4a47-b913-8f2576db53cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::div[1]</value>
+      <webElementGuid>0df0ec5f-f8ad-44ca-98dd-ee10da4f7315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::div[4]</value>
+      <webElementGuid>a7775428-3751-4dcf-8bd0-f6ca18881369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//one-app-launcher-menu-item[7]/a/div</value>
+      <webElementGuid>2f809f03-682b-4506-a1a5-c0e45d303834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sales' or . = 'Sales')]</value>
+      <webElementGuid>9362c0f9-64cb-4df2-8a5d-c39a9d2a9be5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

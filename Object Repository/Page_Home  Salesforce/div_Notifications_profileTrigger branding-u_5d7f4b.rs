@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Notifications_profileTrigger branding-u_5d7f4b</name>
+   <tag></tag>
+   <elementGuidId>c181e4a8-3f0f-457f-9dd2-9bb7052471c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.profileTrigger.branding-user-profile.bgimg.slds-avatar.slds-avatar_profile-image-small.circular.forceEntityIcon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='88:222;a']/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc6ab3fb-a247-456e-810d-1fe753d33db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profileTrigger branding-user-profile bgimg slds-avatar slds-avatar_profile-image-small circular forceEntityIcon</value>
+      <webElementGuid>aa012002-e2a3-45f4-88b8-70920c78c414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>3:450;a</value>
+      <webElementGuid>ab6f8b54-25d8-40bb-be30-4b31cdcb0f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>forceEntityIcon</value>
+      <webElementGuid>0a7404d9-0693-4d5d-9c10-e5e893c3d448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;88:222;a&quot;)/span[@class=&quot;photoContainer forceSocialPhoto&quot;]/div[@class=&quot;profileTrigger branding-user-profile bgimg slds-avatar slds-avatar_profile-image-small circular forceEntityIcon&quot;]</value>
+      <webElementGuid>43c7f301-67cc-4c24-8044-6bb5732954b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='88:222;a']/span/div</value>
+      <webElementGuid>8175ec46-35d6-43c1-a548-87f8f4a31390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[3]</value>
+      <webElementGuid>54135c51-1463-4101-abf9-8d9728f3fb58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[3]/following::div[8]</value>
+      <webElementGuid>19543d04-96cc-41fd-932e-12ddbe38741b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View profile'])[1]/preceding::div[1]</value>
+      <webElementGuid>431b58cf-0f71-4f1a-924f-f586ad9970f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Launcher'])[1]/preceding::div[12]</value>
+      <webElementGuid>f9694723-b7b6-4537-9bba-243d44d29fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span/div</value>
+      <webElementGuid>78c7c43b-3843-4f94-ba04-18da9d62989e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
