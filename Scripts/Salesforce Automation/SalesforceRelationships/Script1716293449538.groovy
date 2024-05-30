@@ -25,7 +25,10 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import org.openqa.selenium.WebDriver
 
 //calling the login customKeyword
-CustomKeywords.'newSalesforceKeywords.loginKeyword.loginToSalesforce'()
+CustomKeywords.'newSalesforceKeywords.NewKeywords.loginToSalesforce'(GlobalVariable.Profile_USER, GlobalVariable.Profile_PSW)
+
+//passing First Name, Last Name, Account Name 
+CustomKeywords.'newSalesforceKeywords.NewKeywords.createNewContact'("John","Doe","Acme Corporation")
 
 // Example code to create a Job Application with a lookup to Job Posting
 WebUI.setText(findTestObject('Page_JobApplication/input_JobTitle'), 'Software Engineer')
@@ -53,4 +56,4 @@ WebUI.click(findTestObject('Page_PatientRecord/button_Save'))
 WebUI.verifyElementText(findTestObject('Page_PatientVisitDetail/field_PatientAddress'), '123 New Street')
 
 //calling the logout customKeyword
-CustomKeywords.'newSalesforceKeywords.loginKeyword.logoutFromSalesforce'()
+CustomKeywords.'newSalesforceKeywords.NewKeywords.logoutFromSalesforce'()

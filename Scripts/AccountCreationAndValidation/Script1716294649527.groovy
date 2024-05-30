@@ -18,6 +18,8 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
   
 WebUI.navigateToUrl('https://mindful-badger-r5gt64-dev-ed.trailblaze.my.salesforce.com/')
 
@@ -29,9 +31,9 @@ WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Passw
 
 WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/button_App Launcher'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/div_Sales'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home  Salesforce/div_Sales'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/span_Accounts (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home  Salesforce/span_Accounts (1)'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Recently Viewed  Accounts  Salesforce/a_American Banking Corp (1)'), 
     0)
